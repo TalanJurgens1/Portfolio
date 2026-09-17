@@ -78,3 +78,9 @@ footer {
     font-size: 0.9rem;
     text-align: center;
 }
+header,
+main {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
